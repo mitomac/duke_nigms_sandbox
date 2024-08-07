@@ -9,16 +9,19 @@
 1. **Introduction to R and Tidyverse**  
    Overview and basic operations in R, including data import/export, data manipulation, and basic statistics.
 
-2. **Data Manipulation with dplyr**  
+2. **Version Control with Git and Collaboration with GitLab/GitHub**
+   Understanding basic Git operations, repository management, and collaborative workflows using GitLab/GitHub platforms.
+
+3. **Data Manipulation with dplyr**  
    Filtering, arranging, and summarizing data, as well as grouping operations and joining multiple datasets with dplyr.
 
-3. **Data Transformation with tidyr**  
+4. **Data Transformation with tidyr**  
    Reshaping data with tidyr (e.g., pivoting and melting), handling missing values, and nest and unnest operations.
 
-4. **Data Visualization with ggplot**  
+5. **Data Visualization with ggplot**  
    Generation of common plots in genomics and proteomics (e.g., MvA, Volcano and Heatmaps) with ggplot, customizing plot aesthetics, and faceting for multi-panel plots.
 
-5. **Statistical Foundations for Large Data**  
+6. **Statistical Foundations for Large Data**  
 Common data analysis and visualization strategies for genomic data with a focus on fundamental statistical principles. Understanding what's inside the 'black box' of analytic algorithms is critical to students' understanding of their results, and the limitations of those results. We will begin with the RNA-seq module and gradually expand to other existing modules (ATAC-seq) or future modules (scRNA-seq) when they become available.
 
 
@@ -44,7 +47,6 @@ be deployed for students.  click and go.
 
 ## Course Outline
 
-
 ### 1. Submodule 1: Introduction to R and Tidyverse
 1. Learning Objectives
    - Understand basic R operations
@@ -63,8 +65,31 @@ be deployed for students.  click and go.
    - GKE Juptyerhub
    - vertex ai llm endpoint
 
+### 2. Submodule 2: Version Control with Git and Collaboration with GitLab/GitHub
+1. Learning Objectives
+   - Understand the basics of version control and its importance in data science
+   - Learn fundamental Git operations (init, add, commit, push, pull)
+   - Grasp branching and merging concepts
+   - Understand collaborative workflows using GitLab/GitHub (pull requests, issues, etc.)
+   - Learn how to integrate Git with R projects
+2. Type of Submodule: Background and Practical
+3. General outline
+   - Introduction to version control and Git
+   - Basic Git operations and workflow
+   - Branching strategies and conflict resolution
+   - Collaborative features of GitLab/GitHub
+   - Integrating Git with RStudio/Jupyter Lab
+   - Best practices for version control in data science projects
+4. Dataset used
+   - Sample R project for version control demonstration
+5. Cloud Services used
+   - GKE Jupyterhub
+   - Cloud Source Repositories (optional, for hosting Git repositories)
+   - Vertex AI LLM endpoint 
 
-### 2. Submodule 2: Data Manipulation with dplyr
+
+
+### 3. Submodule 3: Data Manipulation with dplyr
 1. Learning Objectives
    - Master data filtering and arrangement
    - Learn to summarize data effectively
@@ -81,7 +106,7 @@ be deployed for students.  click and go.
    - GKE Juptyerhub
    - vertex ai llm endpoint
 
-### 3. Submodule 3: Data Transformation with tidyr
+### 4. Submodule 4: Data Transformation with tidyr
 1. Learning Objectives
    - Learn data reshaping techniques
    - Master handling of missing values
@@ -97,7 +122,7 @@ be deployed for students.  click and go.
    - GKE Juptyerhub
    - vertex ai llm endpoint
 
-### 4. Submodule 4: Data Visualization with ggplot
+### 5. Submodule 5: Data Visualization with ggplot
 1. Learning Objectives
    - Create common genomics and proteomics plots
    - Customize plot aesthetics
@@ -113,7 +138,7 @@ be deployed for students.  click and go.
    - GKE Juptyerhub
    - vertex ai llm endpoint
 
-### 5. Submodule 5: Statistical Foundations for Large Data
+### 6. Submodule 6: Statistical Foundations for Large Data
 1. Learning Objectives
    - Understand statistical principles behind genomic and proteomic data analysis
    - Learn to interpret results from analytic algorithms
