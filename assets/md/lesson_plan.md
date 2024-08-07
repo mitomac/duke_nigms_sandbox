@@ -1,6 +1,6 @@
 # Lesson Plan Template
 
-## Cloud-based foundations of data analysis, reproducibility and statistical methodoloogies.
+## Cloud-based foundations of data analysis, reproducibility and statistical methodologies.
 
 **CSP**: Gogle Cloud
 
