@@ -17,7 +17,7 @@
 This repository contains materials for an introductory data science module, part of the NIH NIGMS sandbox initiative, designed for learners new to data science concepts and techniques. The module emphasizes practical applications using R programming and foundational statistical concepts, leveraging cloud computing on Google Cloud Platform (GCP) with Jupyter notebooks. Key topics include:
 
 - Introduction to R programming.
-- Tidyverse essentials, including data manipulation with `dplyr` and visualization with `ggplot2`.
+- Tidyverse essentials, including data filtering with `dplyr`, data cleaning with `tidyr` and visualization with `ggplot2`.
 - Fundamentals of statistical methods such as ANOVA and Linear Regression (LR).
 - A primer on RNAseq data analysis.
 
