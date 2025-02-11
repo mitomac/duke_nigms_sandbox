@@ -33,7 +33,7 @@ See instructions from Deloitte on spinning up cloud instances.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-repo-link.git
+https://github.com/mitomac/duke_nigms_sandbox.git
 ```
 2. Open the project in Jupyter Notebook.
    ```
