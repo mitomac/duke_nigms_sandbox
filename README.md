@@ -38,6 +38,7 @@ https://github.com/mitomac/duke_nigms_sandbox.git
 2. Open the project in Jupyter Notebook.
    ```
 3. Explore the Jupyter notebooks in the `notebooks` folder to follow along with each module. These notebooks leverage Google Cloud Platform (GCP) for cloud-based computation, ensuring scalability and accessibility for users.
+   - `module0.ipynb`: Introduction to Gemini coding assistant in jupyter.
    - `module1.ipynb`: Introduction to R
    - `module2.ipynb`: Introduction to ggplot2
    - `module3.ipynb`: Introduction to dplyr
@@ -79,7 +80,7 @@ Ensure to set the working directory correctly to access these files.
 
 ## **Funding**
 
-This module was developed with support from [insert funding source, e.g., NIH grant XYZ12345].
+This module was developed with support from NIGMS (T32 GM133352-05S1)
 
 ## **License for Data**
 
